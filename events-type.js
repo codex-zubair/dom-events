@@ -22,13 +22,13 @@
 
 
 
-    // Mouse move system
-    document.getElementById('update3').addEventListener('mousemove',
-    ()=> {
-        console.log("Mouse Moving")
-    }
+    // // Mouse move system
+    // document.getElementById('update3').addEventListener('mousemove',
+    // ()=> {
+    //     console.log("Mouse Moving")
+    // }
     
-    )
+    // )
 
 
 
@@ -70,7 +70,7 @@
     )
 
 
-     // change System
+     // Double System
      document.getElementById('update3').addEventListener('dblclick',
     ()=> {
         console.log("double Click")
